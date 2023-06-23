@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "tag": "Low",
+    "title": "Brainstorming",
+    "desc": "Brainstorming brings team members' diverse experience into play.",
+    "comments": 12,
+    "files": 0,
+    "avatars": ["profile1", "profile3", "profile4"],
+    "status": 0
+  },
+  {
+    "id": 2,
+    "tag": "High",
+    "title": "Research",
+    "desc": "User research helps you to create an optimal product for users.",
+    "comments": 10,
+    "files": 3,
+    "avatars": ["profile2", "profile5"],
+    "status": 0
+  },
+  {
+    "id": 3,
+    "tag": "High",
+    "title": "Wireframes",
+    "desc": "Low fidelity wireframes include the most basic content and visuals.",
+    "comments": 2,
+    "files": 0,
+    "avatars": ["profile1", "profile3", "profile4"],
+    "status": 0
+  },
+  {
+    "id": 4,
+    "tag": "Low",
+    "title": "Onboarding Illustrations",
+    "images": ["img1"],
+    "desc": "Some Illustration",
+    "comments": 14,
+    "files": 15,
+    "avatars": ["profile2", "profile5"],
+    "status": 1
+  },
+  {
+    "id": 5,
+    "tag": "Low",
+    "title": "Moodboard",
+    "images": ["img2", "img3"],
+    "desc": "Some Illustration",
+    "comments": 9,
+    "files": 10,
+    "avatars": ["profile1", "profile3", "profile4"],
+    "status": 1
+  },
+  {
+    "id": 6,
+    "tag": "High",
+    "title": "Mobile App Design",
+    "images": ["img4"],
+    "desc": "Some Illustration",
+    "comments": 12,
+    "files": 15,
+    "avatars": ["profile2", "profile5"],
+    "status": 2
+  },
+  {
+    "id": 7,
+    "tag": "Low",
+    "title": "Design System",
+    "desc": "It just needs to adapt the UI from what you did before ",
+    "comments": 12,
+    "files": 15,
+    "avatars": ["profile1", "profile3", "profile4"],
+    "status": 2
+  }
+]
